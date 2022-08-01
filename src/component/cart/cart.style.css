@@ -1,0 +1,11 @@
+.cart{
+    background: rgb(255, 218, 187);
+    margin-top: 20px;
+    padding:20px; 
+    text-align:center; 
+    transition: all 0.5s; 
+}
+.cart:hover{
+    transform: scale(1.05);
+    
+}
